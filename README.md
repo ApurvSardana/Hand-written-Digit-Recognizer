@@ -11,7 +11,7 @@ A TensorFlow project that trains a fully connected neural network to classify gr
 * 🏗️ [Model Architecture](https://github.com/ApurvSardana/Hand-written-Digit-Recognizer?tab=readme-ov-file#%EF%B8%8F-model-architecture)  
 * 🔄 [Training Process](#-training-process)  
 * 📈 [Results](#-results)  
-* ⚙️ [Setup and Usage](https://github.com/ApurvSardana/Hand-written-Digit-Recognizer#%EF%B8%8F-setup-and-usage)  
+* ⚙️ [Setup and Usage](https://github.com/ApurvSardana/Hand-written-Digit-Recognizer?tab=readme-ov-file#%EF%B8%8F-setup-and-usage)  
 * 📚 [References / Resources](#-references--resources)  
 * 🙏 [Thank You](#-thank-you)  
 
