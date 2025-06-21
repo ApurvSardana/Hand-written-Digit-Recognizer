@@ -8,11 +8,11 @@ A TensorFlow project that trains a fully connected neural network to classify gr
 
 * 🧠 [Introduction to Neural Networks](#-introduction-to-neural-networks)
 * 📊 [Dataset](#-dataset)
-* 🏗️ [Model Architecture](https://github.com/ApurvSardana/Hand-written-Digit-Recognizer/blob/main/README.md#-model-architecture)
+* 🏗️ [Model Architecture](#-model-architecture)
 * 🔄 [Training Process](#-training-process)
 * 📈 [Results](#-results)
-* ⚙️ [Setup and Usage](https://github.com/ApurvSardana/Hand-written-Digit-Recognizer/blob/main/README.md#-setup-and-usage)
-* 📚 [References / Resources](https://github.com/ApurvSardana/Hand-written-Digit-Recognizer/blob/main/README.md#-references-/-resources)
+* ⚙️ [Setup and Usage](-setup-and-usage)
+* 📚 [References / Resources](-references-/-resources)
 * 🙏 [Thank You](#-thank-you)
 
 ---
@@ -122,7 +122,7 @@ Explore the code, tweak hyperparameters, or extend the model for better performa
 
 * **TensorFlow API:** [https://www.tensorflow.org/api_docs/python/tf](https://www.tensorflow.org/api_docs/python/tf)
 * **TensorFlow Tutorial Video:** [https://youtu.be/tPYj3fFJGjk?si=0bmtKXbO_z8-90XZ](https://youtu.be/tPYj3fFJGjk?si=0bmtKXbO_z8-90XZ)
-* **Neural Networks** [https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=L2tz7I6RCFse6pBw](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=L2tz7I6RCFse6pBw)
+* **Neural Networks:** [https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=L2tz7I6RCFse6pBw](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=L2tz7I6RCFse6pBw)
 
 ---
 
