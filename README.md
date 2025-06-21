@@ -6,14 +6,14 @@ A TensorFlow project that trains a fully connected neural network to classify gr
 
 ## 📖 Table of Contents
 
-* 🧠 [Introduction to Neural Networks](#-introduction-to-neural-networks)
-* 📊 [Dataset](#-dataset)
-* 🏗️ [Model Architecture](#-model-architecture)
-* 🔄 [Training Process](#-training-process)
-* 📈 [Results](#-results)
-* ⚙️ [Setup and Usage](-setup-and-usage)
-* 📚 [References / Resources](-references-/-resources)
-* 🙏 [Thank You](#-thank-you)
+* 🧠 [Introduction to Neural Networks](#-introduction-to-neural-networks)  
+* 📊 [Dataset](#-dataset)  
+* 🏗️ [Model Architecture](#-model-architecture)  
+* 🔄 [Training Process](#-training-process)  
+* 📈 [Results](#-results)  
+* ⚙️ [Setup and Usage](#-setup-and-usage)  
+* 📚 [References / Resources](#-references--resources)  
+* 🙏 [Thank You](#-thank-you)  
 
 ---
 
@@ -51,7 +51,7 @@ Keras provides easy loading via `tf.keras.datasets.mnist.load_data()`, which ret
 
 Below is the summary of the Keras model :
 
-![Model Summary](images/ModelSummary.png)
+(images/ModelSummary.png)
 
 The network consists of:
 
@@ -100,7 +100,7 @@ The model achieves > 98% accuracy on the test set, misclassifying a small fracti
 
 ## ⚙️ Setup and Usage
 
-```bash
+```
 # Clone this repository
 git clone <https://github.com/ApurvSardana/Hand-written-Digit-Recognizer.git>
 cd <Hand-written-Digit-Classifier>
